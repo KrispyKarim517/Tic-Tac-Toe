@@ -1,0 +1,7 @@
+﻿  AiManager.cpp
+  BoardManager.cpp
+  InputManager.cpp
+C:\Users\Karim Najib\source\repos\Project T-T-T\InputManager.cpp(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+  Generating Code...
+  Project T-T-T.vcxproj -> C:\Users\Karim Najib\source\repos\Project T-T-T\Debug\Project T-T-T.exe
